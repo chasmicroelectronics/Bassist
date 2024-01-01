@@ -1,5 +1,5 @@
 body { 
-	background-color: #ECf4D6; 
+	background-color: #FAEED1; 
 	padding: 10px; 
 	margin: 10px; 
 } 
@@ -15,8 +15,11 @@ body {
 }
 h1 {
     text-align: center;
-    color: #265073;
+    color: #607274;
 }
 h2{
-    color: #265073;
+    color: #607274;
+}
+p, a {
+    color: #B2A59B;
 }

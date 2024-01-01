@@ -1,0 +1,22 @@
+body { 
+	background-color: #ECf4D6; 
+	padding: 10px; 
+	margin: 10px; 
+} 
+.container { 
+	width: 690px; 
+	height: 220px; 
+	position: absolute; 
+	margin: auto; 
+	top: 0; 
+	bottom: 0; 
+	left: 0; 
+	right: 0; 
+}
+h1 {
+    text-align: center;
+    color: #265073;
+}
+h2{
+    color: #265073;
+}
